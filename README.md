@@ -1,7 +1,6 @@
 # Hi👋, I'm Prachi Gupta
 ## A Passionate Frontend Devloper from India
 
-# 💫 About Me:
 👯 I’m looking to collaborate on Web Projects<br>🌱 I’m currently learning React.js
 
 
