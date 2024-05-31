@@ -7,7 +7,7 @@ I'm a Web developer from India
 💡 I like to explore new technologies and develop software solutions and quick hacks. <br />
 🎓 I am a B.Tech Computer Science graduate with expertise in software development and programming, seeking opportunities to leverage my skills in a professional setting.
 
-* 🖥️  See my portfolio at [check out](http://prachigupta.tech)
+* 🖥️  See my portfolio at [here](http://prachigupta.tech)
 * ✉️  You can contact me at [hello@prachigupta.tech](mailto:hello@prachigupta.tech)
 
 ### Skills
